@@ -23,6 +23,49 @@ Tenho experiência com **Playwright, Cypress, Cucumber, testes de API, testes de
 
 ---
 
+## 🗂️ Projetos em Destaque
+
+### 🔬 [desafio-outsera-qa](https://github.com/luanalvesdaniel/desafio-outsera-qa)
+Framework completo de automação de testes com múltiplas camadas de cobertura.
+
+- ✅ Testes de API com Mock (contrato e funcionalidade)
+- ✅ Testes E2E com Playwright e Cucumber
+- ✅ Testes de performance com K6 e Mock
+- ✅ Mock de API para cenários controlados
+- ✅ Geração de relatórios HTML/JSON para todos os tipos de teste
+- ✅ Integração Contínua via GitHub Actions
+
+**Stack:** JavaScript · Playwright · Cucumber · K6 · Express · AJV · Node.js
+
+---
+
+### ☕ [java-restassured-api](https://github.com/luanalvesdaniel/java-restassured-api)
+Automação de testes de API em Java com RestAssured + JUnit 5.
+
+- ✅ Health check, login válido e inválido
+- ✅ Validação de contrato via JSON Schema
+- ✅ Busca de produtos e endpoints autenticados (Bearer token)
+- ✅ Cadastro de produto e cenários de erro
+- ✅ Relatório HTML via Maven Surefire
+
+**Stack:** Java 17 · Maven · JUnit 5 · RestAssured · AssertJ
+
+---
+
+### 🎭 [projeto-selecao-qa-artia](https://github.com/luanalvesdaniel/projeto-selecao-qa-artia)
+Automação de testes E2E na tela de Registro com suporte a múltiplas resoluções.
+
+- ✅ Cucumber (Gherkin) + Playwright + Page Object Model (POM) em TypeScript
+- ✅ Geração de relatório HTML e vídeo em caso de falha
+- ✅ Execução via GitHub Actions (CI/CD) com download de relatórios
+- ✅ Multi resoluções: Desktop (1920×1080), Tablet (834×1112) e Mobile (390×844)
+- ✅ Modo headless e headed
+- ✅ Geração randômica de Nome, Telefone, E-mail e Senha
+
+**Stack:** TypeScript · Playwright · Cucumber · Node.js
+
+---
+
 ## 🚀 Principais Tecnologias
 
 ### Automação
@@ -82,4 +125,4 @@ Tenho experiência com **Playwright, Cypress, Cucumber, testes de API, testes de
 ## 📫 Contato
 
 - 📧 **Email:** luan.ad.daniel@gmail.com
-- 💼 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/luanalvesdaniel/)
+- 💼 **LinkedIn:** [in/luanalvesdaniel/](https://www.linkedin.com/in/luanalvesdaniel/)
